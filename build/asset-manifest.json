@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e76e8c96.css",
+    "main.js": "/static/js/main.efb02202.js",
+    "static/js/787.96b18b2c.chunk.js": "/static/js/787.96b18b2c.chunk.js",
+    "static/media/pexels.jpg": "/static/media/pexels.98cfe3b00d4250daca45.jpg",
+    "static/media/portfolio-apiMovies.png": "/static/media/portfolio-apiMovies.7b17ef1c3ee9ce7ed62b.png",
+    "static/media/portfolio-web-page.png": "/static/media/portfolio-web-page.a5a623ce4845e4c46316.png",
+    "static/media/portfolio-fighting-game.png": "/static/media/portfolio-fighting-game.962f6c3c445e5b5e9131.png",
+    "static/media/imgprincipal.png": "/static/media/imgprincipal.6c569f9eec00a89264d6.png",
+    "static/media/portfolio-calculadora-react.jpg": "/static/media/portfolio-calculadora-react.2adb5cab75bb90692ce1.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/ocean.jpg": "/static/media/ocean.5167ba9f365095253aea.jpg",
+    "static/media/html.png": "/static/media/html.d05b11b8d05e5f549913.png",
+    "static/media/night-sky-bottom.jpg": "/static/media/night-sky-bottom.afff39e65a2008de6e3e.jpg",
+    "static/media/css.png": "/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/portfolio-webServer-njs.png": "/static/media/portfolio-webServer-njs.62eba9a1aa0102cb41b3.png",
+    "static/media/nodejs.png": "/static/media/nodejs.e71346fe0fec16ec5f6e.png",
+    "static/media/python.png": "/static/media/python.2aeaf9b4ce075d692393.png",
+    "static/media/portfolio-tasklist.png": "/static/media/portfolio-tasklist.430e5c4d2694d3e10b13.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/github-icon.svg": "/static/media/github-icon.7f3f2905449cba612a7f6e9e8cb9732d.svg",
+    "static/media/whats2.svg": "/static/media/whats2.2db42f5342fd7c27a60a61408a6c16a4.svg",
+    "static/media/code.svg": "/static/media/code.1af475a1784f0a7570557332b471e464.svg",
+    "static/media/pdf.svg": "/static/media/pdf.9a367e48a54cf999f9009eac229b3f21.svg",
+    "index.html": "/index.html",
+    "static/media/mail.svg": "/static/media/mail.d91f2dcccaab4284700b6e3fa364bdeb.svg",
+    "main.e76e8c96.css.map": "/static/css/main.e76e8c96.css.map",
+    "main.efb02202.js.map": "/static/js/main.efb02202.js.map",
+    "787.96b18b2c.chunk.js.map": "/static/js/787.96b18b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76e8c96.css",
+    "static/js/main.efb02202.js"
+  ]
+}
