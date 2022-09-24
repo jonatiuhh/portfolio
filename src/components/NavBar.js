@@ -58,7 +58,7 @@ export const NavBar = () => {
 							    </CopyToClipboard>
                   <Toaster/>
                </div>
-            <button className="vvd" onClick={() => window.open('https://drive.google.com/file/d/1-ToAJluVMTBdHF0rhkojEc-xRC3Igh3w/view?usp=sharing','_blank')}><span>My C.V.</span> </button>
+            {/* <button className="vvd" onClick={() => window.open('https://drive.google.com/file/d/1-ToAJluVMTBdHF0rhkojEc-xRC3Igh3w/view?usp=sharing','_blank')}><span>My C.V.</span> </button> */}
           </span>
         </Navbar.Collapse>
       </Container>

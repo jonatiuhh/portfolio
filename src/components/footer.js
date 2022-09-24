@@ -25,7 +25,7 @@ export const Footer =() =>{
 						<img src={Logo} alt="Logo" />
 					</Col>
 					<Col sm={6} className="text-center text-sm-end">
-						<p className='contact-js'> Contact </p>
+						<p className='contact-js'> Contact and C.V.</p>
 						  <div className='social-icon'>
 							  <a href='https://github.com/jonatiuhh' target="_blank" ><img src={navIcon1} /></a>
 								<a href="https://drive.google.com/file/d/1-ToAJluVMTBdHF0rhkojEc-xRC3Igh3w/view?usp=sharing" target='_blank' ><img src={NavIcon4} alt="" /></a>

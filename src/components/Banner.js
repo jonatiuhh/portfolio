@@ -9,7 +9,7 @@ import TrackVisibility from 'react-on-screen';
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate = [ 'JavaScript', 'Python'];
+    const toRotate = [ 'Web developer'];
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(300 - Math.random() * 100);
     const period = 2000; 
@@ -52,9 +52,10 @@ export const Banner = () => {
                       {({ isVisible }) =>
                       <div className={isVisible ? "animated__animated animate__fadeIn" : ""}>
                         <span className="tagline">Welcome to my portfolio</span>
-                        <h1>{'Hi, im Jonathan, '}<span className="wrap">{text}</span>{' programmer'}</h1>
-                        <p>My name is Jonathan Sesma, Im living in Guadalajara, MX. Im recently gratuaded at Mecatronic Engeneer when i found the love for programming. A friend mine askme make him a web page and one thing back another one. 
-                            I'm skilful with JS and Python.</p>
+                        <h1>{'Hi, im Jonathan, '}<span className="wrap">{text}</span></h1>
+                        <p>My name is Jonathan Sesma, I live in Guadalajara, MX. I'm web developer, recently gratuaded of Mecatronic Engeneer. 
+                        Currently working as freelancer.
+                        </p>
                         {/* <button onClick={() => console.log('connect')}>Lets connect </button> */}
                         </div>}
                       </TrackVisibility>

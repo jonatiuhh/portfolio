@@ -39,7 +39,7 @@ export const Skills = () => {
                         <h2>
                             Skills
                         </h2>
-                        <p>I'm a tech and code lover. Always learning new knowledge about code. Also you can watch the repositories in my GitHub link.</p>
+                        <p>Here I show the languages and frameworks that I most use.</p>
                         <Carousel responsive={responsive} infinite={true} className="skill-slider">
                             <div className='item'>
                                 <img src={js} alt='image' />

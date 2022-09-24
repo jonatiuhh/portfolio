@@ -23,7 +23,7 @@ export const NewsLetter = ({ onValidated, status, message}) => {
 
     return (
         <Col lg={12}>
-            <div className="newsletter-bx wow slideInUp">
+            <div className="newsletter-bx">
                 <Row>
                     <Col lg={12} md={6} xl={5}>
                         <h3>Subscribe to my NewsLetter</h3>
